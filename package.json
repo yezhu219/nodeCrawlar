@@ -15,6 +15,7 @@
     "koa": "^2.7.0",
     "mongoose": "^5.6.4",
     "request": "^2.88.0",
-    "request-promise": "^4.2.4"
+    "request-promise": "^4.2.4",
+    "turndown": "^5.0.3"
   }
 }
